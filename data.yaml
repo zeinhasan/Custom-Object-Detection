@@ -1,0 +1,6 @@
+train: D:\Clone Repo\Custom-Object-Detection\datasets\Data\Train
+val: D:\Clone Repo\Custom-Object-Detection\datasets\Data\Test
+
+nc: 4
+
+names: ['Apple Overripe','Apple Ripe','Apple Overripe','Apple Rotten']
